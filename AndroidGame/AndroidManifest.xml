@@ -14,11 +14,11 @@
     <application
        android:allowBackup="true"
        android:icon="@drawable/ic_launcher"
-       android:label="Battery [Alpha - v1.0]" >
+       android:label="Battery - Alpha" >
         <activity
            android:name=".SampleGame"
            android:configChanges="keyboard|keyboardHidden|orientation"
-           android:label="Battery [Alpha - v1.0]"
+           android:label="Battery - Alpha"
            android:screenOrientation="sensorLandscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
