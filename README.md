@@ -13,6 +13,8 @@ Currently I'm upgrading the games framework to be up to-date with todays modern 
 
 
 <b>Main character:</b> 
-![Screenshot](https://photos-4.dropbox.com/t/2/AAAxdKpmvAV7OuAidO43d4ZsARGmH9Puvf0vGnjU-LyBVg/12/19529409/png/32x32/1/1432821600/0/2/Pre-Battery.png/CMH9pwkgASACIAMgBCAFIAYoASgCKAM/Z4PFdqkGxmuRetmBBj7kYSDMISILjGwX5uzY9Pi8xLE?size_mode=5)                         <b>Enemy character:</b> ![Screenshot](AndroidGame/assets/robot1.png)
+![Screenshot](https://photos-4.dropbox.com/t/2/AAAxdKpmvAV7OuAidO43d4ZsARGmH9Puvf0vGnjU-LyBVg/12/19529409/png/32x32/1/1432821600/0/2/Pre-Battery.png/CMH9pwkgASACIAMgBCAFIAYoASgCKAM/Z4PFdqkGxmuRetmBBj7kYSDMISILjGwX5uzY9Pi8xLE?size_mode=5)
+<b>Enemy character#1:</b> ![Screenshot](https://photos-1.dropbox.com/t/2/AABxjnceJY8Z6QjaB5cPTOT5sDSnvpNtEnJ-2rPoXrOTUw/12/19529409/png/32x32/1/1432821600/0/2/Pre-Pusher.png/CMH9pwkgASACIAMgBCAFIAYoASgCKAM/t7u4yBw9DlBiuCDu2YgxvNjli1-3KJD8HGxI-MEDOEE?size_mode=5)
+<b>Enemy character#2:</b> ![Screenshot](https://photos-2.dropbox.com/t/2/AADw8TsZ3HRrnPdElIHclG_RHLF5jg25kUuUFhby0FFJwA/12/19529409/png/32x32/1/1432821600/0/2/Pre-Crawler.png/CMH9pwkgASACIAMgBCAFIAYoASgCKAM/WlTHiolm_KkbT2u8OlvYtahFujjC8kJuWtut_p-F_-I?size_mode=5)
 
 
