@@ -13,6 +13,6 @@ Currently I'm upgrading the games framework to be up to-date with todays modern 
 
 
 <b>Main character:</b> 
-![Screenshot](AndroidGame/assets/character.png)                         <b>Enemy character:</b> ![Screenshot](AndroidGame/assets/robot1.png)
+![Screenshot](https://photos-4.dropbox.com/t/2/AAAxdKpmvAV7OuAidO43d4ZsARGmH9Puvf0vGnjU-LyBVg/12/19529409/png/32x32/1/1432821600/0/2/Pre-Battery.png/CMH9pwkgASACIAMgBCAFIAYoASgCKAM/Z4PFdqkGxmuRetmBBj7kYSDMISILjGwX5uzY9Pi8xLE?size_mode=5)                         <b>Enemy character:</b> ![Screenshot](AndroidGame/assets/robot1.png)
 
 
