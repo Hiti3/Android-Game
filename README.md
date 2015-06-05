@@ -17,6 +17,5 @@ Currently I'm upgrading the games framework to be up to-date with todays modern 
 
 <b>Enemy character#1:</b> ![Screenshot](https://photos-2.dropbox.com/t/2/AACFoS3fwR0fffg8cWdFykJaEGrfdpCay1hnbg3EIJ6EYA/12/19529409/png/32x32/1/1433494800/0/2/Pre-Pusher.png/CMH9pwkgASACIAMgBCAFIAYgBygBKAIoAygH/t7u4yBw9DlBiuCDu2YgxvNjli1-3KJD8HGxI-MEDOEE?size=1280x960&size_mode=2)
 
-<b>Enemy character#2:</b> ![Screenshot](https://photos-2.dropbox.com/t/2/AADw8TsZ3HRrnPdElIHclG_RHLF5jg25kUuUFhby0FFJwA/12/19529409/png/32x32/1/1432821600/0/2/Pre-Crawler.png/CMH9pwkgASACIAMgBCAFIAYoASgCKAM/WlTHiolm_KkbT2u8OlvYtahFujjC8kJuWtut_p-F_-I?size_mode=5)
 
 
