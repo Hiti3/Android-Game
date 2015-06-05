@@ -13,7 +13,7 @@ Currently I'm upgrading the games framework to be up to-date with todays modern 
 
 
 <b>Main character:</b> 
-![Screenshot](https://www.dropbox.com/s/2587psy6y80dcsq/Pre-Battery.png?dl=0)
+![Screenshot](https://photos-3.dropbox.com/t/2/AAATfD5UwmUnW3S65Y_kzXFptb91egfK1INlxrxkLZcJdQ/12/19529409/png/32x32/1/1433494800/0/2/Pre-Battery.png/CMH9pwkgASACIAMgBCAFIAYgBygBKAIoAygH/Z4PFdqkGxmuRetmBBj7kYSDMISILjGwX5uzY9Pi8xLE?size=1280x960&size_mode=2)
 
 <b>Enemy character#1:</b> ![Screenshot](https://photos-1.dropbox.com/t/2/AABxjnceJY8Z6QjaB5cPTOT5sDSnvpNtEnJ-2rPoXrOTUw/12/19529409/png/32x32/1/1432821600/0/2/Pre-Pusher.png/CMH9pwkgASACIAMgBCAFIAYoASgCKAM/t7u4yBw9DlBiuCDu2YgxvNjli1-3KJD8HGxI-MEDOEE?size_mode=5)
 
